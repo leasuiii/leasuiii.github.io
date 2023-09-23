@@ -1,0 +1,39 @@
+/* Center the buttons horizontally and vertically */
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh; /* Set the container's height to the full viewport height */
+  }
+  
+  /* Style for the buttons */
+  .bubbly-button {
+    display: inline-block;
+    padding: 30px 40px;
+    font-size: 50px;
+    background-color: #3498db; /* Blue color */
+    color: #ffffff; /* White color for text */
+    border: none;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  /* Style for the second button */
+  .bubbly-button {
+    background-color: #e74c3c; /* Red color */
+  }
+  
+  /* Apply the styles to the buttons */
+  .bubbly-button {
+    background-color: #2ecc71; /* Green color */
+  }
+  
+  .centered-header {
+text-align: center;
+padding-top: 70px;
+padding-bottom: 0px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+  }
+  
